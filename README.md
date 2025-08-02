@@ -1,1 +1,2 @@
-Weather app to find the weather
+Weather app 
+  To find the weather
